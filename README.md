@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **akanksharani405@gmail.com**
 
+
 - ⚡ Fun fact **I have a talent for mimicking Shinchan's mischievous antics!**
 
 <h3 align="left">Connect with me:</h3>
