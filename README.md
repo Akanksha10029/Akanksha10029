@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha Rani</h1>
 <h3 align="center">Aspiring Data Enthusiast Exploring Python, Data Analysis, and Machine Learning</h3>
-
 <img align="right" alt="coding img" width="350" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha10029&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha10029" /> </p>
