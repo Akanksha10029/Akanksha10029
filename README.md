@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Analysis and Machine Learning**
 
-- 💬 Ask me about **python,C,MySQL,C++**
+- 💬 Ask me about **python,C,MySQL,C++,HTML,CSS**
 
 - 📫 How to reach me **akanksharani405@gmail.com**
 
