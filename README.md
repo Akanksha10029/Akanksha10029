@@ -31,5 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha10029&" alt="akanksha10029" /></p>
 <h3 align="left">My Holopin Badges</h3>
 
-[![An image of @akanksha10029's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akanksha10029)](https://holopin.io/@akanksha10029)
+[![An image of @akanksha10029's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akanksha10029)](https://holopin.io/@akanksha10029) 
 
