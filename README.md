@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **python, C, MySQL, C++, HTML5, CSS, Microsoft Excel, Power BI, JavaScript**
 
-- 📫 How to reach me **akanksharani405@gmail.com**
+- 📫 How to reach me **akanksha12016@gmail.com**
 
 
 - ⚡ Fun fact **I have a talent for mimicking Shinchan's mischievous antics!**
