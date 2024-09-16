@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha10029&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha10029" /> </p>
 
-- 🌱 I’m currently learning **DSA, Web development using c++**
+- 🌱 I’m currently learning **DSA, Web development using python**
 
 - 💬 Ask me about **python, C, MySQL, C++, HTML5, CSS,JavaScript, Microsoft Excel, Power BI, Django**
 
