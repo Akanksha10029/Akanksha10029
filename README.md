@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA, Web development using python**
 
-- 💬 Ask me about **python, C, MySQL, C++, HTML5, CSS,JavaScript, Microsoft Excel, Power BI, Django**
+- 💬 Ask me about **python, Django, C, C++, MySQL, MongoDB, HTML5, CSS, JavaScript, NodeJs,ExpressJs, REST API, Microsoft Excel, Power BI**
 
 - 📫 How to reach me **akanksha12016@gmail.com**
 
